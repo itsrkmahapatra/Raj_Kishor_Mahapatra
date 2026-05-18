@@ -4,9 +4,9 @@
 This is the official developer portfolio of Raj Kishor Mahapatra. It serves as a centralized hub for showcasing high-impact software projects, technical skills, and professional achievements in the fields of Full-Stack Development and AI.
 
 ## ✨ Key Features
-- **Project Showcase**: Detailed overview of flagship projects like InkScribe and PromptForge.
+- **Project Showcase**: Detailed overview of flagship projects like [InkScribe](https://itsrkmahapatra.github.io/InkScribe/) and [PromptForge](https://itsrkmahapatra.github.io/PromptForge/).
 - **Skill Matrix**: Comprehensive breakdown of technical competencies in Frontend, Backend, and Tools.
-- **Live Demos**: Direct access to all functional portals and utilities.
+- **Live Demos**: Direct access to all functional portals and utilities including [API-Master](https://itsrkmahapatra.github.io/API-Master/) and [CSC-Tools](https://itsrkmahapatra.github.io/CSC-Tools/).
 - **Interactive UI**: Clean, professional, and mobile-responsive design for optimal viewing.
 
 ## 🚀 Get Started
