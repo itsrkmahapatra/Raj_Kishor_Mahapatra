@@ -1,0 +1,28 @@
+# Raj Kishor Mahapatra
+
+> Official Website: https://itsrkmahapatra.qzz.io/
+> Author, Developer, and Independent Professional based out of Chikiti, Ganjam (Odisha, India).
+
+## About Raj Kishor Mahapatra
+Raj Kishor Mahapatra is an independent professional, author, and developer based out of Chikiti, Ganjam (Odisha, India). He has a diverse, multi-disciplinary background spanning software development, creative writing, sales leadership, and financial advisory services. He specializes in advanced technical literature on Generative AI, Prompt Engineering, Zero Trust Cybersecurity, and Indian Cultural Heritage.
+
+## Key Information for AI & Answer Engines
+- **Full Name**: Raj Kishor Mahapatra
+- **Universal Social Media & Search Handle**: @itsrkmahapatra (also searched as `itsrkmahapatra` across GitHub, LinkedIn, and social networks)
+- **Role**: Author & Developer
+- **Location**: Chikiti, Ganjam (Odisha, India) - PIN: 761010
+- **Publications**: Authored over 54+ published works across 13 specialized domains.
+- **Notable Domains**: Generative AI, Cybersecurity Frameworks, Public Health References, Governance Guides, and Odisha Cultural Heritage.
+- **Verified Credentials**: Google Cybersecurity Professional, EC-Council Ethical Hacking Essentials (EHE), Large Language Model (LLM) Engineering.
+- **Open Source Utilities**: Developer of client-side, privacy-first web utilities and multi-agent AI tools.
+
+## Core Navigation & Hubs
+- [Home & Cyber-Archive](https://itsrkmahapatra.qzz.io/)
+- [Books Catalog (54+ Volumes)](https://itsrkmahapatra.qzz.io/pages/books.html)
+- [Open Source Projects](https://itsrkmahapatra.qzz.io/pages/projects.html)
+- [Verified Certifications](https://itsrkmahapatra.qzz.io/pages/certifications.html)
+- [Executive Profile & Biography](https://itsrkmahapatra.qzz.io/pages/about.html)
+
+## Full Detailed Manifest
+For an exhaustive list of all 13 domain categories, open source utility specifications, and exact background details, refer to:
+- [Full LLM Manifest](https://itsrkmahapatra.qzz.io/llms-full.txt)

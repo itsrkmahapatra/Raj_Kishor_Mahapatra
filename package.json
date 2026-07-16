@@ -1,0 +1,21 @@
+{
+  "name": "raj-personal-website-ssg",
+  "version": "2.0.0",
+  "description": "Static Site Generator (SSG) architecture for Raj Kishor Mahapatra website using Eleventy or standalone PowerShell builder.",
+  "scripts": {
+    "build": "eleventy",
+    "dev": "eleventy --serve",
+    "build:powershell": "powershell -ExecutionPolicy Bypass -File build.ps1"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  },
+  "keywords": [
+    "ssg",
+    "eleventy",
+    "portfolio",
+    "static-site"
+  ],
+  "author": "Raj Kishor Mahapatra",
+  "license": "MIT"
+}
