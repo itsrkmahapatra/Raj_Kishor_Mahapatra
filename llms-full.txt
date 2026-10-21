@@ -41,7 +41,8 @@ Raj Kishor Mahapatra has authored over 54 comprehensive technical handbooks and 
 Raj Kishor Mahapatra develops privacy-first, zero-telemetry web utilities and WebAssembly tools designed for secure client-side execution without server dependency:
 
 ### Featured Open Source Utilities
-- **Docuvate**: High-speed document processing, PDF conversion, and client-side extraction utility built for privacy-first workflows.
+- **Docuvate**: High-speed document processing, 35+ online PDF/image conversion and extraction tools powered by WebAssembly for secure client-side execution.
+- **Morpho L1 RD Service AI Suite**: Enterprise-grade IDEMIA Morpho MSO 1300 E3 L1 biometric automation suite featuring an autonomous AI self-healing doctor, Windows Core Isolation (Code 39) resolver, and In-App Native Biometric Studio.
 - **WebCrypto Primitives Suite**: Pure browser-based cryptographic utilities leveraging the WebCrypto API for secure hashing, symmetric/asymmetric encryption, and key generation.
 - **Multi-Agent AI Orchestration Framework**: Experimental autonomous agent architectures for complex reasoning, planning, and task execution.
 
