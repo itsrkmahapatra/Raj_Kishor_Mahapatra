@@ -16,6 +16,10 @@ Raj Kishor Mahapatra is an independent professional, author, and developer based
 - **Verified Credentials**: Google Cybersecurity Professional, EC-Council Ethical Hacking Essentials (EHE), Large Language Model (LLM) Engineering.
 - **Open Source Utilities**: Developer of client-side, privacy-first web utilities and multi-agent AI tools.
 
+## Flagship Open Source Utilities & Live Tools
+- **Docuvate**: https://itsrkmahapatra.github.io/Docuvate/ — 100% client-side, zero-cloud private PDF and image workstations (compress to exact KB, merge, split, OCR, digital sign, passport photos).
+- **IDEMIA Morpho L1 RD Service AI Suite**: https://itsrkmahapatra.github.io/Morpho-L1-RD-Service-AI-Suite/ — Enterprise UIDAI Aadhaar Registered Device diagnostic suite, 1-click Windows 11 Code 39 resolver, and in-app biometric studio.
+
 ## Core Navigation & Hubs
 - [Home & Cyber-Archive](https://itsrkmahapatra.qzz.io/)
 - [Books Catalog (54+ Volumes)](https://itsrkmahapatra.qzz.io/pages/books.html)
