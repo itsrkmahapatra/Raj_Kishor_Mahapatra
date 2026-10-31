@@ -89,9 +89,22 @@
         };
       })();
     </script>
+    <!-- Security Headers Emulation -->
+    <meta http-equiv="X-Content-Type-Options" content="nosniff">
+    <meta http-equiv="X-XSS-Protection" content="1; mode=block">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+    <meta http-equiv="Permissions-Policy" content="camera=(), microphone=(), geolocation=()">
+
+    <!-- Performance Resource Hints -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+    <link rel="dns-prefetch" href="https://cdn.tailwindcss.com">
+
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link rel="preload" href="./css/style.css" as="style">
     <link rel="stylesheet" href="./css/style.css">
 </head>
 <body class="min-h-screen flex flex-col pt-24">
@@ -147,7 +160,7 @@
                 <div class="flex flex-col md:flex-row items-center gap-12 mb-16">
                     <div class="relative w-44 h-44 md:w-52 md:h-52 shrink-0">
                         <div class="w-32 h-32 md:w-44 md:h-44 rounded-full overflow-hidden border-2 border-[#D4AF37]/50 shadow-[0_0_40px_rgba(212,175,55,0.2)]">
-                            <img src="./images/my-image.jpg" alt="Raj Kishor Mahapatra" class="w-full h-full object-cover" loading="lazy" decoding="async">
+                            <img src="./images/my-image.jpg" alt="Raj Kishor Mahapatra" class="w-full h-full object-cover" loading="eager" fetchpriority="high" decoding="async" width="176" height="176">
                         </div>
                     </div>
                     <div>
